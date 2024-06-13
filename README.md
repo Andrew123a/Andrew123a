@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andrew123a
+- 👋 Hi, I’m @Andrew123a aka anej_is_cool
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning html, css, javascript
 - 💞️ I’m looking to collaborate on ...
